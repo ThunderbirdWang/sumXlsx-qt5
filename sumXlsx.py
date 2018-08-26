@@ -2,7 +2,8 @@
 
 import sys
 import win
-#import PyQt5.sip #windows下用pyinstaller打包取消此行注释
+# import sip
+# import PyQt5.sip #windows下用pyinstaller打包取消此行注释
 from PyQt5.QtWidgets import QApplication, QMainWindow
 
 if __name__ == '__main__':
